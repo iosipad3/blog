@@ -1,2 +1,2 @@
 # blog
-Blog 1
+Blog 01
